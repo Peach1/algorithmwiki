@@ -30,7 +30,10 @@ A project may contain PDFs/Power Points to provide supplemental understanding of
 >**NOTE: For anyone who wants to actually contribute *SmallPT* to algorithm wiki, SmallPT's code needs to be majorly cleaned up to fit with the Contribution Guidelines. All code in algorithmwiki must use  self documenting identifiers, proper spacing, and code indent. It's highly encouraged to provide insightful comments that explain how code is implementing a high level theory. (And specifically for SmallPT, the high level theory demonstrated is The Rendering Equation) https://en.wikipedia.org/wiki/Rendering_equation**
 
 ### Contribution Guidelines
-Each page should contain working source code implemented in C, C++, Javascript, Rust, or Swift. Haskell can only be used as educational commentary related to algorithms or type theory. **Psuedocode, esoteric languages, and Java must *NEVER* be used.** All code must use standard indentation, self documenting identifiers, and use cross platform code that compiles on Windows/Mac/Linux with minimal to no modification. The purpose of this project is to explain well-understood concepts clearly in well understood programming languages and *most of all* - provide working code that is easy to modify and learn from.
+Each subproject should contain working source code implemented in C, C++, Javascript, Rust, or Swift.
+Every subproject should have a README.md file that gives an appropriate description of the topic/algorithm being shown.
+No project may consist *solely* of pseudocode.
+Haskell can only be used as educational commentary related to algorithms or type theory. **Esoteric languages, and Java must *NEVER* be used.** All code must use standard indentation, self documenting identifiers, and use cross platform code that compiles on Windows/Mac/Linux with minimal to no modification. The purpose of this project is to explain well-understood concepts clearly in well-understood programming languages and *most of all* - provide working code that is easy to modify and learn from.
 
 ### Explanations must be Concise, Simplistic, and Minimalistic
 All code and all explanations should be as short and descriptive as possible. Do not resort to domain specific jargon. Avoid academic fluff, avoid symbols, and briefly re-explain concepts instead of re-linking them.
