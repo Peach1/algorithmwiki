@@ -1,6 +1,9 @@
 The Area of a Triangle (2D/3D)
 ======
 
+### High Level Algorithm
+
+```typescript
 // Formula to find the area of any 2D or 3D triangle
 function TriangleArea(vec3 v1, vec3 v2, vec3 v3) returns double
 {
@@ -17,3 +20,4 @@ function TriangleArea(vec3 v1, vec3 v2, vec3 v3) returns double
   
   return sqrt(areasquared);
 }
+```
