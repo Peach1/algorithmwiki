@@ -50,5 +50,6 @@ We try to collect the best blog posts, scientific research papers, stackoverflow
 If you deeply understand a scientific research paper, we'd greatly appreciate your commentary on the paper! If you have successfully implemented a concept explained in a scientific research paper, we'd love to see any code snippets you're willing to share!
 This project is by programmers for programmers, so if you know a great paper, blog post, or explanation on a subject we cover, let us know! 
 
+!
 
 
